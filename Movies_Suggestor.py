@@ -17,7 +17,7 @@ if not API_KEY:
 
 client = genai.Client(api_key = API_KEY)
 
-st.title('AI Personal Movies/Dramas Suggestor🎬')
+st.title('AI Personal Movies/Dramas Suggester🎬')
 
 st.markdown("""
     <style>
